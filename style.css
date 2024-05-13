@@ -17,7 +17,7 @@
     .logos {
         overflow: hidden;
         padding: 60px 0;
-        background: white;
+        background: transparent;
         white-space: nowrap;
     }
 
